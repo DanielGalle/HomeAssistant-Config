@@ -66,4 +66,5 @@ My hardware / devices
 003.  Logitech Harmony Hub
 004.  Broadlink RM3 mini
 
-more to come...
+
+> more to come...
