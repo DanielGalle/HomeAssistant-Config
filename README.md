@@ -29,6 +29,7 @@ My hardware / devices
 003.  _Connected 60W Equivalent Soft White A19 Dimmable LED Light Bulb_
 004.  _Ai Light_
 005.  _Yeelight_
+006.  Philips Hue Lightsrip
 
 > 4. Sensors
 001.  2 GoControl Motion Sensors
@@ -40,6 +41,7 @@ My hardware / devices
 007.  _Xiaomi Door / Window Sensor_
 008.  Samsung SmartThings Motion Detector
 009.  2 Samsung SmartThings Door / Windows Sensors
+010.  Ecobee Sensor
 
 > 5. "Power"
 001.  Pivot Power Genius Power Strip
@@ -52,3 +54,16 @@ My hardware / devices
 001.  _x GE Switches_
 002.  _Z-Wave in wall Relays_
 003. _Xiaomi Smart Button_
+
+> 7.  Safety
+001.  4 Kidde Smoke / CO2 Detectors
+002.  5 Blink Cameras
+003.  Ring Doorbell
+
+> 8. Misc
+001.  GoControl Garage Door Opener
+002.  Ecobee3 Smart Thermostat
+003.  Logitech Harmony Hub
+004.  Broadlink RM3 mini
+
+more to come...
